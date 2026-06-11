@@ -1,215 +1,207 @@
-# Shivani Reddy Katta
+<div align="center">
 
-## AI/ML Engineer | MS Computer Science | LLMs | RAG | Agentic AI | Software Development
+<h1>
+  <span style="color:#00C6FF;">Shivani Reddy Katta</span>
+</h1>
 
-Building intelligent systems using Machine Learning, Generative AI, and scalable software solutions.
+<h3>
+AI/ML Engineer | Generative AI | LLMs | RAG | Agentic AI | Software Engineer
+</h3>
 
-LinkedIn: https://www.linkedin.com/in/shivani-reddy-katta/
+<p>
+Building intelligent systems using Artificial Intelligence, Machine Learning,
+and scalable software solutions.
+</p>
 
-GitHub: https://github.com/shivanireddykatta
+<a href="https://www.linkedin.com/in/shivani-reddy-katta/">
+<img src="https://img.shields.io/badge/LinkedIn-Shivani%20Reddy%20Katta-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/shivanireddykatta">
+<img src="https://img.shields.io/badge/GitHub-shivanireddykatta-black?style=for-the-badge&logo=github">
+</a>
+
+</div>
 
 
-## About Me
+---
 
-I am pursuing a Master's degree in Computer Science at the University of Central Missouri with a GPA of 3.5/4.0.
+<h2 style="color:#00C6FF;">About Me</h2>
 
-My interests include Artificial Intelligence, Machine Learning, Generative AI, Large Language Models, and building production-ready AI applications.
+<table>
+<tr>
+<td width="60%">
 
-Currently working on:
-- LLM applications
-- Retrieval Augmented Generation (RAG)
-- AI Agents and Agentic workflows
-- Deep Learning and Computer Vision
-- Cloud-based AI solutions
+I am pursuing my **Master's in Computer Science at University of Central Missouri**.
+
+<b>GPA:</b> 3.5 / 4.0
+
+Focused on building production-ready AI systems with:
+
+<ul>
+<li>Large Language Models (LLMs)</li>
+<li>Retrieval Augmented Generation (RAG)</li>
+<li>AI Agents & Agentic Workflows</li>
+<li>Deep Learning</li>
+<li>Machine Learning Engineering</li>
+<li>Cloud-based AI Applications</li>
+</ul>
 
 Research:
-- Published research on Brain Tumor Detection using CNN Deep Learning
+<br>
 
-Location:
-Little Rock, Arkansas, United States
+<b>Brain Tumor Detection Using CNN Deep Learning</b>
 
-Open to opportunities:
-AI Engineer | Machine Learning Engineer | Software Engineer | Data/AI Roles
+</td>
 
+<td>
 
----
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
-## Technical Skills
+</td>
 
-### Programming Languages
-
-Python  
-Java  
-C  
-C#  
-SQL  
-JavaScript  
-
-
-### AI / Machine Learning
-
-Machine Learning  
-Deep Learning  
-Computer Vision  
-Natural Language Processing  
-Large Language Models (LLMs)  
-Generative AI  
-Prompt Engineering  
-RAG Systems  
-AI Agents  
-
-
-### Frameworks & Libraries
-
-PyTorch  
-TensorFlow  
-Scikit-Learn  
-LangChain  
-FastAPI  
-Flask  
-React  
-
-
-### Databases & Cloud
-
-MySQL  
-SQL Server  
-AWS  
-Microsoft Azure  
-
-
-### Tools
-
-Git  
-GitHub  
-Jupyter Notebook  
-VS Code  
-Postman  
-Power BI  
-Docker  
-CI/CD Concepts  
+</tr>
+</table>
 
 
 ---
 
-## Projects
+<h2 style="color:#FF6F61;">Technical Skills</h2>
 
 
-### Brain Tumor Detection Using CNN Deep Learning
+<h3>Programming</h3>
 
-Deep learning-based medical image classification system using Convolutional Neural Networks.
-
-Technologies:
-Python | TensorFlow | CNN | Deep Learning | Computer Vision
+<img src="https://skillicons.dev/icons?i=python,java,c,cs,js,sql" />
 
 
-Repository:
-https://github.com/shivanireddykatta
+<h3>AI / ML</h3>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+<br>
+
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-AI%20Agents-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Deep%20Learning-Computer%20Vision-green?style=for-the-badge">
+
+
+<h3>Development & Cloud</h3>
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,flask,aws,azure,docker,git,github" />
 
 
 ---
 
-### AI / LLM Applications
+<h2 style="color:#00C6FF;">Featured Projects</h2>
 
-Developing applications using:
 
-- Large Language Models
-- Prompt Engineering
-- Retrieval Augmented Generation
-- AI Agents
-- LangChain workflows
+<div style="border:1px solid #00C6FF; padding:15px; border-radius:15px;">
 
-Technologies:
+<h3>Brain Tumor Detection Using CNN Deep Learning</h3>
+
+Deep learning based medical image classification system.
+
+<b>Technology:</b>
+
+Python | CNN | TensorFlow | Deep Learning | Computer Vision
+
+</div>
+
+
+<br>
+
+
+<div style="border:1px solid #FF6F61; padding:15px; border-radius:15px;">
+
+<h3>LLM Applications & RAG Systems</h3>
+
+Building intelligent AI applications using:
+
+<ul>
+<li>Large Language Models</li>
+<li>Prompt Engineering</li>
+<li>Retrieval Augmented Generation</li>
+<li>Vector Search</li>
+<li>AI Pipelines</li>
+</ul>
+
+<b>Technology:</b>
+
 Python | LangChain | LLM APIs | FastAPI
 
-
-Repository:
-https://github.com/shivanireddykatta
+</div>
 
 
----
-
-### REST API Integration Projects
-
-Built API-based integrations with structured data exchange, validation, and error handling.
-
-Technologies:
-Python | REST APIs | JSON | Postman
+<br>
 
 
-Repository:
-https://github.com/shivanireddykatta
+<div style="border:1px solid #7F00FF; padding:15px; border-radius:15px;">
 
+<h3>AI Agent Development</h3>
 
----
+Developing autonomous AI workflows with:
 
-### React Dashboard Applications
+<ul>
+<li>Agent architectures</li>
+<li>Tool calling</li>
+<li>Automation workflows</li>
+</ul>
 
-Developed interactive dashboards and web applications.
-
-Technologies:
-React | JavaScript | APIs
-
-
-Repository:
-https://github.com/shivanireddykatta
+</div>
 
 
 ---
 
-### Data Analytics Projects
+<h2 style="color:#FF6F61;">Certifications</h2>
 
-Created data analysis and visualization solutions using:
+<div style="background:#111; padding:15px; border-radius:12px;">
 
-- SQL queries
-- Python data processing
-- Power BI dashboards
+<b>NVIDIA Deep Learning Institute</b>
 
-Technologies:
-Python | SQL | Power BI
+<br><br>
 
+• Building LLM Applications With Prompt Engineering
 
-Repository:
-https://github.com/shivanireddykatta
+<br>
 
+• Building RAG Agents with LLMs
 
----
+<br>
 
-## Certifications
+• Generative AI with Diffusion Models
 
-
-### NVIDIA Certifications
-
-Building LLM Applications With Prompt Engineering  
-NVIDIA Deep Learning Institute
-
-Building RAG Agents with LLMs  
-NVIDIA Deep Learning Institute
-
-Generative AI with Diffusion Models  
-NVIDIA Deep Learning Institute
+</div>
 
 
 ---
 
-## GitHub Statistics
+<h2 style="color:#00C6FF;">GitHub Analytics</h2>
 
 
-![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanireddykatta&show_icons=true&theme=tokyonight)
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=shivanireddykatta&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanireddykatta&layout=compact&theme=tokyonight)
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanireddykatta&layout=compact&theme=tokyonight" />
+
+</div>
 
 
 ---
 
-## Connect With Me
+<div align="center">
 
-LinkedIn:
-https://www.linkedin.com/in/shivani-reddy-katta/
+<h2 style="color:#00C6FF;">Connect</h2>
 
-GitHub:
-https://github.com/shivanireddykatta
+<a href="https://www.linkedin.com/in/shivani-reddy-katta/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
 
 
-Thank you for visiting my profile.
+<br><br>
+
+<b>AI • Innovation • Building the Future</b>
+
+</div>
