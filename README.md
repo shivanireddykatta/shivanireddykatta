@@ -32,7 +32,7 @@ and scalable software solutions.
 <tr>
 <td width="60%">
 
-I am pursuing my **Master's in Computer Science at University of Central Missouri**.
+I completed my **Master's in Computer Science at University of Arkansas at Little Rock **.
 
 <b>GPA:</b> 3.5 / 4.0
 
@@ -48,17 +48,17 @@ Focused on building production-ready AI systems with:
 </ul>
 
 Research:
+
+<ul>
+<li><b>Brain Tumor Detection Using CNN Deep Learning</b><br>
+Deep learning-based medical image classification using Convolutional Neural Networks.</li>
+
 <br>
 
-<b>Brain Tumor Detection Using CNN Deep Learning</b>
+<li><b>Human Computer Interaction: Eye-Controlled Mouse</b><br>
+Developed an assistive HCI system enabling cursor control through eye movement tracking and computer vision techniques.</li>
 
-</td>
-
-<td>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
-
-</td>
+</ul>
 
 </tr>
 </table>
