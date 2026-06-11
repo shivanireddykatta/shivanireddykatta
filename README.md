@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻 Computer Science Graduate Student | AI/ML Engineer | Software Developer
+### Computer Science Graduate Student | AI/ML Engineer | Software Developer
 
 Building intelligent systems with **AI, Machine Learning, LLMs, and scalable software solutions**
 
@@ -14,19 +14,19 @@ Building intelligent systems with **AI, Machine Learning, LLMs, and scalable sof
 
 ## 👩‍💻 About Me
 
-🎓 Pursuing **Master's in Computer Science** at the **University of Central Missouri**  
-📊 GPA: **3.5 / 4.0**
+🎓 **Master's in Computer Science** at the **University of Central Missouri**  
+GPA: **3.5 / 4.0**
 
-🚀 Currently exploring:
-- 🤖 Agentic AI & AI Agents
-- 🧠 Large Language Models (LLMs)
-- 🔎 Retrieval Augmented Generation (RAG)
-- ⚙️ AI Application Development
+Currently exploring:
+- Agentic AI & AI Agents
+- Large Language Models (LLMs)
+- Retrieval Augmented Generation (RAG)
+- AI Application Development
 
-🔬 Research:
+ Research:
 - Published research on **Brain Tumor Detection using CNN Deep Learning**
 
-💡 Interested in building:
+Interested in building:
 - AI-powered applications
 - Intelligent automation systems
 - Data-driven solutions
@@ -34,7 +34,7 @@ Building intelligent systems with **AI, Machine Learning, LLMs, and scalable sof
 
 📍 Little Rock, Arkansas, USA
 
-🚀 Actively seeking opportunities in:
+Actively seeking opportunities in:
 **AI Engineer | Machine Learning Engineer | Software Engineer | Data/AI Roles**
 
 
@@ -79,15 +79,15 @@ Building intelligent systems with **AI, Machine Learning, LLMs, and scalable sof
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 Brain Tumor Detection Using CNN
+###  Brain Tumor Detection Using CNN
 Deep learning-based medical image classification system using CNN models.
 
 **Tech:** Python | TensorFlow | Deep Learning | Computer Vision
 
 
-### 🤖 AI / LLM Applications
+###  AI / LLM Applications
 Building applications using:
 - LLM workflows
 - RAG pipelines
@@ -105,7 +105,7 @@ Data-driven projects using:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
