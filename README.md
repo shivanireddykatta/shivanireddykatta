@@ -175,7 +175,7 @@ View Certificate
 <li>
 <b>Building RAG Agents with LLMs</b>
 <br>
-<a href="./certifications/NVIDIA-RAG-Agents.pdf">
+<a href="./NVIDIA-RAG-Agents.pdf">
 View Certificate
 </a>
 </li>
@@ -185,7 +185,7 @@ View Certificate
 <li>
 <b>Generative AI with Diffusion Models</b>
 <br>
-<a href="./certifications/NVIDIA-Diffusion-Models.pdf">
+<a href="./NVIDIA-Diffusion-Models.pdf">
 View Certificate
 </a>
 </li>
