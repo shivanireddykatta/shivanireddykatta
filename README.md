@@ -165,7 +165,7 @@ Developing autonomous AI workflows with:
 <li>
 <b>Building LLM Applications With Prompt Engineering</b>
 <br>
-<a href="./NVIDIA-LLM-Prompt-Engineering.pdf">
+<a href="Building_LLM_Applications_PromptEngineering_Certi.pdf">
 View Certificate
 </a>
 </li>
