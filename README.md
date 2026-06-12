@@ -175,7 +175,7 @@ View Certificate
 <li>
 <b>Building RAG Agents with LLMs</b>
 <br>
-<a href="./NVIDIA-RAG-Agents.pdf">
+<a href="Building_RAG_AGENTS_NVIDIA_Certificate.pdf">
 View Certificate
 </a>
 </li>
