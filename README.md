@@ -185,7 +185,7 @@ View Certificate
 <li>
 <b>Generative AI with Diffusion Models</b>
 <br>
-<a href="./NVIDIA-Diffusion-Models.pdf">
+<a href="Generative AI with diffusion models certificate.pdf">
 View Certificate
 </a>
 </li>
