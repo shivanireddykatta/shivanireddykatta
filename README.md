@@ -153,25 +153,47 @@ Developing autonomous AI workflows with:
 
 <h2 style="color:#FF6F61;">Certifications</h2>
 
-<div style="background:#111; padding:15px; border-radius:12px;">
+<div style="border:1px solid #76B900; padding:20px; border-radius:15px;">
 
-<b>NVIDIA Deep Learning Institute</b>
+<h3>
+<img src="https://img.shields.io/badge/NVIDIA-Deep%20Learning%20Institute-76B900?style=for-the-badge&logo=nvidia">
+</h3>
 
-<br><br>
 
-• Building LLM Applications With Prompt Engineering
+<ul>
+
+<li>
+<b>Building LLM Applications With Prompt Engineering</b>
+<br>
+<a href="./certifications/NVIDIA-LLM-Prompt-Engineering.pdf">
+View Certificate
+</a>
+</li>
 
 <br>
 
-• Building RAG Agents with LLMs
+<li>
+<b>Building RAG Agents with LLMs</b>
+<br>
+<a href="./certifications/NVIDIA-RAG-Agents.pdf">
+View Certificate
+</a>
+</li>
 
 <br>
 
-• Generative AI with Diffusion Models
+<li>
+<b>Generative AI with Diffusion Models</b>
+<br>
+<a href="./certifications/NVIDIA-Diffusion-Models.pdf">
+View Certificate
+</a>
+</li>
+
+
+</ul>
 
 </div>
-
-
 ---
 
 <h2 style="color:#00C6FF;">GitHub Analytics</h2>
