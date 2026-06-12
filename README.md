@@ -32,10 +32,9 @@ and scalable software solutions.
 <tr>
 <td width="60%">
 
-I completed my <b>Master's in Computer Science</b> at the <b>University of Arkansas at Little Rock</b>.
-<b>GPA:</b> 
-<br><br>
-3.5 / 4.0
+I completed my <b>Master's in Computer Science</b> at the <b>University of Arkansas at Little Rock</b>.<br><br>
+
+<b>GPA:</b> 3.5 / 4.0
 
 Focused on building production-ready AI systems with:
 
